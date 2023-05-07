@@ -4,7 +4,7 @@
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/117899107/236662915-b1bbd1db-3cbc-444a-a9b8-d4f7b1443dfd.png)
 
-For Deployment: (AWS Elastic Beanstalk) (steo by step)
+For Deployment: (AWS Elastic Beanstalk) (step by step)
 1. open aws then sign in
 2. Search for Elastic Beanstalk open application icon
 3. create application

@@ -1,8 +1,34 @@
 ## End to End Machine Learning Project 
 
+### Life cycle of Machine learning Project
+#### Understanding the Problem Statement
+
+1. Data Collection
+
+2. Data Checks to perform
+
+3. Exploratory data analysis
+
+4. Data Pre-Processing
+
+5. Model Training
+
+6. Choose best model
+
+#### Problem statement
+1. This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
+
+2. Data Collection
+
+> Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
+
+> The data consists of 8 column and 1000 rows.
+
 
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/117899107/236662915-b1bbd1db-3cbc-444a-a9b8-d4f7b1443dfd.png)
+
+
 
 For Deployment: (AWS Elastic Beanstalk) (step by step)
 make: make a folder: .ebextension>python.config>
@@ -38,27 +64,4 @@ For Deployment: (Azure)
 6. .yaml fill would be created
 7. go to github actions, add or update azure....
 8. Deployment Completed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

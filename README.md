@@ -1,5 +1,8 @@
 ## End to End Machine Learning Project 
 
+![ineuron-logo](https://github.com/Kartikay-Garg/Students_performance_ml_project/assets/117899107/5f51033f-bd4f-42d6-848b-a122a0dd70cf)
+
+
 ### Life cycle of Machine learning Project
 #### Understanding the Problem Statement
 
